@@ -4,6 +4,8 @@
   "gVoiceFree": false,
   "preLoadPrefab":true,
   "supportVersion": "1.5.1",
+  "isWXLogin":true,
+  "isALPhoneLogin":true,
   "downLoadUrl": "http://share.lt.games778.com:99",
   "apiUrl":"http://client.proxy.games778.com:98",
   "LoginServer":{"ip":"logic.lt.games778.com", "port":"8002","isWss":0}
