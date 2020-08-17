@@ -1,0 +1,7 @@
+{
+ "packageUrl": "http://hd.lt.fljxx.com/update/release",
+ "version": "1.5.0",
+ "engineVersion": "3.13.0", 
+ "remoteVersionUrl": "http://hd.lt.fljxx.com/update/release/version.manifest",
+ "remoteManifestUrl": "http://hd.lt.fljxx.com/update/release/project.manifest"
+}
