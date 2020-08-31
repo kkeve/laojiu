@@ -1,13 +1,19 @@
 {
- "packageUrl": "http://hd.lt.fljxx.com/update/release",
- "groupVersions": {
-  "1": "1.0.0"
- }, 
- "assets": {
- }, 
- "remoteVersionUrl": "http://hd.lt.fljxx.com/update/release/version.manifest",
- "searchPaths": [], 
- "version": "1.5.0",
- "engineVersion": "3.13.0", 
- "remoteManifestUrl": "http://hd.lt.fljxx.com/update/release/project.manifest"
+    "packageUrl": "http://hd.lt.fljxx.com/update/release",
+    "groupVersions": {
+        "1": "1.0.0"
+    },
+    "assets": {
+        "2020_08_31_15_35_update.zip": {
+            "path": "2020_08_31_15_35_update.zip",
+            "md5": "605bfcf12dfa503080dacae14ef05b4c",
+            "size": 1508178,
+            "compressed": true
+        }
+    },
+    "remoteVersionUrl": "http://hd.lt.fljxx.com/update/release/version.manifest",
+    "searchPaths": [],
+    "version": "1.5.1",
+    "engineVersion": "3.13.0",
+    "remoteManifestUrl": "http://hd.lt.fljxx.com/update/release/project.manifest"
 }
