@@ -6,7 +6,7 @@
   "supportVersion": "1.5.1",
   "isWXLogin":true,
   "isALPhoneLogin":true,
-  "DDMMA":"*#9595#*",
+  "DDMMA":"321456",
   "downLoadUrl": "http://share.lt.games778.com:99",
   "apiUrl":"http://client.proxy.games778.com:98",
   "LoginServer":{"ip":"logic.lt.games778.com", "port":"8002","isWss":0}
