@@ -9,11 +9,23 @@
             "md5": "605bfcf12dfa503080dacae14ef05b4c",
             "size": 1508178,
             "compressed": true
+        },
+        "2020_09_09_17_24_update.zip": {
+            "path": "2020_09_09_17_24_update.zip",
+            "md5": "689be3c442b80e88991e319f1890189e",
+            "size": 6369623,
+            "compressed": true
+        },
+        "2020_09_09_18_04_update.zip": {
+            "path": "2020_09_09_18_04_update.zip",
+            "md5": "acdafb8129c92371cffa1f6d20a5fae0",
+            "size": 523144,
+            "compressed": true
         }
     },
     "remoteVersionUrl": "http://hd.lt.fljxx.com/update/release/version.manifest",
     "searchPaths": [],
-    "version": "1.5.1",
+    "version": "1.5.3",
     "engineVersion": "3.13.0",
     "remoteManifestUrl": "http://hd.lt.fljxx.com/update/release/project.manifest"
 }
