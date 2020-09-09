@@ -21,11 +21,17 @@
             "md5": "acdafb8129c92371cffa1f6d20a5fae0",
             "size": 523144,
             "compressed": true
+        },
+        "2020_09_09_20_08_update.zip": {
+            "path": "2020_09_09_20_08_update.zip",
+            "md5": "4dcdfe2329d014948c8e9fb8c00cb3f5",
+            "size": 523196,
+            "compressed": true
         }
     },
-    "remoteVersionUrl": "http://hd.lt.fljxx.com/update/release/version.manifest",
+    "remoteVersionUrl": "http://hotud.lt.games778.com:96/update/release/version.manifest",
     "searchPaths": [],
-    "version": "1.5.3",
+    "version": "1.5.4",
     "engineVersion": "3.13.0",
-    "remoteManifestUrl": "http://hd.lt.fljxx.com/update/release/project.manifest"
+    "remoteManifestUrl": "http://hotud.lt.games778.com:96/update/release/project.manifest"
 }
