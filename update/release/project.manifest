@@ -33,11 +33,17 @@
             "md5": "144e5f8393f153af068f12ab3b930c76",
             "size": 7928963,
             "compressed": true
+        },
+        "2020_09_29_10_16_update.zip": {
+            "path": "2020_09_29_10_16_update.zip",
+            "md5": "e1f10218f9d936d56f476391ac61e47e",
+            "size": 1260690,
+            "compressed": true
         }
     },
     "remoteVersionUrl": "http://hotud.lt.games778.com:96/update/release/version.manifest",
     "searchPaths": [],
-    "version": "1.5.5",
+    "version": "1.5.6",
     "engineVersion": "3.13.0",
     "remoteManifestUrl": "http://hotud.lt.games778.com:96/update/release/project.manifest"
 }
